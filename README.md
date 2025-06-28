@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Ghosh</h1>
 <h3 align="center">Developing skills in Python programming and Data Analysis.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankalisa&label=Profile%20views&color=0e75b6&style=flat" alt="priyankalisa" /> </p>
 
